@@ -1,2 +1,0 @@
-This is the branch project.
-And this file is the work that will be added to it.
